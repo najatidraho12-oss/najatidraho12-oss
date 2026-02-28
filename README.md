@@ -2,16 +2,16 @@
 
 <p align="center">
 🎓 Étudiante en Génie Informatique à l’ENIAD <br>
-💻 Développeuse Java (JEE), .NET & React <br>
-🤖 Passionnée par l’Intelligence Artificielle & le Machine Learning <br>
-🏗️ Intéressée par l’Architecture Logicielle & les bonnes pratiques
+ Développeuse Java (JEE), .NET & React <br>
+ Passionnée par l’Intelligence Artificielle & le Machine Learning <br>
+ Intéressée par l’Architecture Logicielle & les bonnes pratiques
 </p>
 
 ---
 
-## 🚀 Compétences Techniques
+## Compétences Techniques
 
-### 💻 Langages & Frameworks
+###  Langages & Frameworks
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🗄️ Bases de Données
+###  Bases de Données
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Outils & Environnement
+###  Outils & Environnement
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Domaines d’Intérêt
+##  Domaines d’Intérêt
 
 - Développement Full-Stack
 - Architecture Clean & Design Patterns
@@ -51,19 +51,19 @@
 
 ---
 
-## 📈 Objectif Professionnel
+##  Objectif Professionnel
 
 Mettre en pratique mes connaissances académiques à travers des projets concrets, bien structurés et maintenables, tout en développant des solutions innovantes et performantes.
 
 ---
 
-## 🌍 About Me (English Version)
+##  About Me (English Version)
 
 I am a Computer Engineering student at ENIAD, passionate about software development, clean architecture, and artificial intelligence.  
 I enjoy building full-stack applications and continuously improving my technical and problem-solving skills.
 
 ---
 
-## 📫 Me Contacter
+## Me Contacter
 
 🔗 LinkedIn :(https://www.linkedin.com/in/najat-id-raho-b05a25360/)
