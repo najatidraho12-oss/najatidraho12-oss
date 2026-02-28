@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Najat ID Raho</h1>
+<h1 align="center"> Bonjour, je suis Najat ID Raho</h1>
 
 <p align="center">
 🎓 Étudiante en Génie Informatique à l’ENIAD <br>
