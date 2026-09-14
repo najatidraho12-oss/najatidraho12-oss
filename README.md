@@ -38,15 +38,15 @@
 
 ---
 
-## 👩🏻‍💻 À propos de moi
+## 👩🏻‍💻 About Me
 
-- 🎓 Élève-ingénieure en **5ᵉ année du cycle d’ingénieur en Génie Informatique** à **l’ENIAD – Berkane**
-- 💻 Passionnée par le **développement Full Stack** et la conception d’applications modernes
-- 🤖 Intérêt particulier pour **l’Intelligence Artificielle, le Machine Learning et le Deep Learning**
-- ⚙️ J’aime concevoir des solutions complètes combinant **frontend, backend, bases de données, APIs et IA**
-- 🚀 Je m’intéresse particulièrement aux projets **Full Stack, Software Engineering, AI / ML et NLP**
-- 🌍 Ouverte aux **stages, PFE, collaborations, projets innovants et opportunités professionnelles**
-- ✨ Toujours motivée à apprendre de nouvelles technologies et à participer à des projets à fort impact
+- 🎓 5th-year **Computer Engineering student** at **ENIAD – Berkane**
+- 💻 Passionate about **Full Stack Development** and building modern applications
+- 🤖 Particularly interested in **Artificial Intelligence, Machine Learning and Deep Learning**
+- ⚙️ I enjoy designing complete solutions combining **frontend, backend, databases, APIs and AI**
+- 🚀 Especially interested in **Full Stack, Software Engineering, AI / ML and NLP** projects
+- 🌍 Open to **internships, PFE opportunities, collaborations, innovative projects and professional opportunities**
+- ✨ Always motivated to explore new technologies, improve my skills and contribute to meaningful projects
 
 <br/>
 
@@ -55,18 +55,17 @@
 <img src="https://img.shields.io/badge/FULL%20STACK-E7B2C7?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-C5A8D8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-B7CEB7?style=for-the-badge&logoColor=white"/>
+
 </div>
 
 <br/>
 
-</div>
-
 ---
 
-## 🧰 Stack technique
+## 🧰 Tech Stack
 
 
-### 💻 Langages
+### 💻 Programming Languages
 
 <div align="center">
 
@@ -121,7 +120,7 @@
 
 <br/>
 
-### 🗄️ Bases de données
+### 🗄️ Databases
 
 <div align="center">
 
@@ -136,7 +135,7 @@
 
 <br/>
 
-### ☁️ DevOps & Outils
+### ☁️ DevOps & Tools
 
 <div align="center">
 
@@ -281,7 +280,7 @@ Open to opportunities, internships, collaborations and innovative projects.
 ### 🌷 Open to Opportunities
 
 **Internships** &nbsp; • &nbsp;
-**PFE** &nbsp; • &nbsp;
+**Final-Year Projects** &nbsp; • &nbsp;
 **Collaborations** &nbsp; • &nbsp;
 **Software Projects** &nbsp; • &nbsp;
 **AI Projects**
