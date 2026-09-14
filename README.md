@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-514956?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/najat-id-raho-b05a25360/">
   <img src="https://img.shields.io/badge/LINKEDIN-7E9BBE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -249,190 +249,54 @@ while continuously learning and adapting to new technologies.
 
 ---
 
-## 🚀 Featured Projects
+## 💌 Contact Me
 
 <div align="center">
 
-<i>A selection of projects combining software engineering, Full Stack development and Artificial Intelligence.</i>
+<br/>
+
+### ✦ Let's build something meaningful together ✦
+
+<i>
+Interested in Software Engineering, Full Stack Development and Artificial Intelligence.<br/>
+Open to opportunities, internships, collaborations and innovative projects.
+</i>
 
 <br/><br/>
+
+<a href="https://www.linkedin.com/in/najat-id-raho-b05a25360/">
+  <img src="https://img.shields.io/badge/LinkedIn-9EB9D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:najatidraho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D9A6BA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-BDA8D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+
+### 🌷 Open to Opportunities
+
+**Internships** &nbsp; • &nbsp;
+**PFE** &nbsp; • &nbsp;
+**Collaborations** &nbsp; • &nbsp;
+**Software Projects** &nbsp; • &nbsp;
+**AI Projects**
+
+<br/><br/>
+
+<i>
+Feel free to reach out — I'm always happy to connect, learn and collaborate.
+</i>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:D5E4D8,30:C9DBEE,65:D7C3E8,100:E7B2C7&height=150&section=footer"
+  width="100%"
+/>
 
 </div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏥 XeleronAI</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20%2B%20HEALTHCARE-E7B2C7?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>Clinical Data De-identification Platform</b>
-
-</div>
-
-<br/>
-
-End-to-end intelligent platform for detecting and de-identifying sensitive information in clinical documents.
-
-<br/><br/>
-
-**✦ Key Features**
-
-- Manual & semi-automatic annotation
-- PHI detection and visualization
-- NER model fine-tuning
-- Model evaluation
-- Dataset preparation
-- Automated de-identification
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-E7B2C7?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-C5A8D8?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-A9C6E3?style=flat-square"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-B7CEB7?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-E7B2C7?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-C5A8D8?style=flat-square&logo=docker&logoColor=white"/>
-
-</div>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h3 align="center">💳 Fraud Detection</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20%2B%20FINTECH-C5A8D8?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>Intelligent Real-Time Fraud Detection</b>
-
-</div>
-
-<br/>
-
-Intelligent platform for real-time transaction analysis, risk scoring and automated fraud detection.
-
-<br/><br/>
-
-**✦ Key Features**
-
-- Real-time transaction processing
-- Intelligent risk scoring
-- Fraud detection
-- ACCEPT / MFA / BLOCK decisions
-- Machine & Deep Learning
-- Graph Neural Networks
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-C5A8D8?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-E7B2C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-A9C6E3?style=flat-square&logo=pytorch&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kafka-B7CEB7?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-E7B2C7?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-C5A8D8?style=flat-square&logo=redis&logoColor=white"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔧 Repartout</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FULL%20STACK-A9C6E3?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>Industrial Maintenance Platform</b>
-
-<br/><br/>
-
-Web application for managing after-sales maintenance operations and industrial equipment interventions.
-
-<br/><br/>
-
-✦ Repair order management  
-✦ Intervention tracking  
-✦ Secure authentication  
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-A9C6E3?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-C5A8D8?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL%20Server-E7B2C7?style=flat-square"/>
-
-</div>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h3 align="center">📱 Startup LaunchPad</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MOBILE-B7CEB7?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>Startup Organization Application</b>
-
-<br/><br/>
-
-Mobile application designed to help project owners and innovation teams structure their startup ideas.
-
-<br/><br/>
-
-✦ Task management  
-✦ Goal definition  
-✦ Startup idea organization  
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Flutter-B7CEB7?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-A9C6E3?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-E7B2C7?style=flat-square"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
