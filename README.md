@@ -1,103 +1,174 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Najat ID Raho</h1>
 
-<h1 style="font-weight:600; letter-spacing:1px;">
-Najat ID Raho
-</h1>
-
-<h3 style="font-weight:400; color:gray;">
-Étudiante en Génie Informatique | Développeuse Java, .NET & React
+<h3 align="center">
+Software Engineering Student | Full Stack Developer | AI & Machine Learning Enthusiast
 </h3>
 
-<br>
-
-<p style="max-width:650px; line-height:1.8; font-size:16px;">
-
-Je conçois et développe des applications web structurées, sécurisées et évolutives en utilisant des technologies backend et frontend modernes.
-
-Mes principaux domaines d’intérêt incluent l’Intelligence Artificielle, le Machine Learning ainsi que l’Architecture Logicielle et les bonnes pratiques de développement.
-
-</p>
-
-</div>
-
-<hr style="width:50%; margin:auto;">
-
-
-<div align="center">
-  <h2 style="font-weight:600; letter-spacing:0.5px;">Compétences Techniques</h2>
-  <p style="max-width:700px; line-height:1.7; color:gray;">
-    Technologies principales utilisées dans mes projets académiques et personnels.
-  </p>
-</div>
-
-### Langages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  Building intelligent, scalable and user-focused applications.
 </p>
 
-<br>
+---
 
-### Bases de Données
+## 👩‍💻 About Me
+
+🎓 Computer Engineering Student at ENIAD Berkane
+
+💻 Full Stack Developer with experience in Java, Spring Boot, React and PHP
+
+🤖 Passionate about Artificial Intelligence, Machine Learning and NLP
+
+🧠 Currently working with Deep Learning, NER and intelligent data-processing systems
+
+🐳 Interested in DevOps, Docker and modern software architectures
+
+🌱 Always learning new technologies and improving my engineering skills
+
+🚀 Open to PFE opportunities, collaborations and innovative projects
+
+📍 Based in Morocco
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,js,php" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
+
+Java EE / JEE · Spring MVC · Spring Security · REST APIs
+
+### 🤖 AI & Machine Learning
+
+Machine Learning · Deep Learning · NLP · NER  
+PyTorch · Scikit-learn · Hugging Face Transformers  
+Pandas · NumPy · LightGBM · XGBoost
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
+</p>
+
+Oracle · SQL Server
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,vscode" />
+</p>
+
+Swagger · UML · Trello
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Clinical Data De-identification Platform — XeleronAI
+
+End-to-end intelligent platform for detecting and de-identifying
+Protected Health Information (PHI) from clinical documents.
+
+**Key features**
+- Manual and semi-automatic annotation
+- PHI detection and visualization
+- NER model fine-tuning
+- Dataset generation
+- Prediction validation
+- Automated de-identification
+
+**Technologies**
+
+`Python` `PyTorch` `Hugging Face` `FastAPI` `Spring Boot`
+`React` `PostgreSQL` `MongoDB` `Docker`
+
+---
+
+### 💳 Intelligent Fraud Detection Platform
+
+Real-time intelligent fraud detection and transaction risk-scoring platform.
+
+**Key features**
+- Real-time transaction analysis
+- Risk scoring
+- Fraud detection
+- ACCEPT / MFA / BLOCK decision system
+- Supervised & unsupervised Machine Learning
+- Deep Learning and Graph Neural Networks
+
+**Technologies**
+
+`Python` `FastAPI` `Scikit-learn` `LightGBM` `XGBoost`
+`PyTorch` `Kafka` `MongoDB` `Redis` `Docker`
+`Spring Boot` `React`
+
+---
+
+### 🔧 Repartout — Maintenance Management Platform
+
+After-sales maintenance management system for industrial equipment.
+
+**Technologies**
+
+`Spring Boot` `Spring MVC` `Spring Security` `JPA` `SQL Server`
+
+---
+
+### 📱 Startup LaunchPad
+
+Mobile application designed to help entrepreneurs organize projects,
+tasks, objectives and startup ideas.
+
+**Technologies**
+
+`Flutter` `SQLite` `JSON`
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=najatidraho12-oss&show_icons=true&hide_border=true" />
 </p>
 
-<br>
-
-### Outils & Environnement
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najatidraho12-oss&layout=compact&hide_border=true" />
 </p>
 
-<hr style="width:50%; margin:auto;">
+---
 
-<div align="center">
-  <h2 style="font-weight:600; letter-spacing:0.5px;">Domaines d’Intérêt</h2>
-</div>
+## 🤝 Connect With Me
 
-<ul>
-  <li>Développement Full-Stack</li>
-  <li>Architecture Clean & Design Patterns</li>
-  <li>Systèmes d’authentification & Sécurité</li>
-  <li>Intelligence Artificielle</li>
-  <li>Applications Web modernes</li>
-</ul>
+<p align="center">
+  <a href="mailto:najatidraho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<hr style="width:50%; margin:auto;">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<div align="center">
-  <h2 style="font-weight:600; letter-spacing:0.5px;">Objectif Professionnel</h2>
-</div>
-
-<p style="line-height:1.7;">
-Mettre en pratique mes connaissances académiques à travers des projets concrets, bien structurés et maintenables, tout en développant des solutions innovantes et performantes.
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<hr style="width:50%; margin:auto;">
+---
 
-<div align="center">
-  <h2 style="font-weight:600; letter-spacing:0.5px;">About Me (English)</h2>
-</div>
-
-<p style="line-height:1.7;">
-I am a Computer Engineering student at ENIAD, passionate about software development, clean architecture, and artificial intelligence.<br>
-I enjoy building full-stack applications and continuously improving my technical and problem-solving skills.
+<p align="center">
+✨ Turning ideas into intelligent and useful applications. ✨
 </p>
-
-<hr style="width:50%; margin:auto;">
-
-<div align="center">
-  <h2 style="font-weight:600; letter-spacing:0.5px;">Me Contacter</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/najat-id-raho-b05a25360/">LinkedIn</a>
-  </p>
-</div>
