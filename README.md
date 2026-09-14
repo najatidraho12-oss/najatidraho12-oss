@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-7E9BBE?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:najatidraho@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=najatidraho@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-B77C95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -268,8 +268,8 @@ Open to opportunities, internships, collaborations and innovative projects.
   <img src="https://img.shields.io/badge/LinkedIn-9EB9D5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:najatidraho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D9A6BA?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=najatidraho@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-B77C95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 
